@@ -1,2 +1,4 @@
 # javascripting-workshop
-test "javascripting" workshop (https://nodeschool.io)
+
+test logs: "javascripting" workshop (https://nodeschool.io)
+
